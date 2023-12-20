@@ -1,0 +1,1 @@
+[Link to source](https://dev.to/julfikarhaidar/rest-apis-example-with-sequelize-orm-with-node-js-and-express-p40)
